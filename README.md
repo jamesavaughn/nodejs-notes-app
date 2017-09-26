@@ -1,6 +1,6 @@
 # nodejs-notes-app
 
-## Description ## 
+## Description ##
 
 Basic Console Notes App built using NodeJS
 
@@ -11,7 +11,7 @@ Basic Console Notes App built using NodeJS
  3. List notes
  4. Remove notes
 
-## Run instructions:##
+## Run instructions: ##
 
 ` $ npm install `
 ` $ node app.js --title=[title] -- body=[body] `
